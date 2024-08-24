@@ -48,6 +48,55 @@ function Home() {
     </div>
   </div>
 </section>
+      <div className="bg-gray-50 py-16 pt-32 pb-32 bg-gray-50">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="max-w-4xl mx-auto text-center">
+              <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
+                Our Impact
+              </h2>
+              <p className="mt-3 text-xl text-gray-500 sm:mt-4">
+                We have worked with many title one schools and schools around
+                the world to help students learn to code and build amazing
+                projects.
+              </p>
+            </div>
+          </div>
+          <div className="mt-10 pb-1 bg-gray-50">
+            <div className="relative">
+              <div className="absolute inset-0 h-1/2"></div>
+              <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div className="max-w-4xl mx-auto">
+                  <dl className="rounded-lg sm:grid sm:grid-cols-3 bg-gray-50">
+                    <div className="flex flex-col p-6 text-center">
+                      <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                        Schools
+                      </dt>
+                      <dd className="order-1 text-5xl font-extrabold text-gray-700">
+                        100+
+                      </dd>
+                    </div>
+                    <div className="flex flex-col border-gray-100 p-6 text-center">
+                      <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                        Countries
+                      </dt>
+                      <dd className="order-1 text-5xl font-extrabold text-gray-700">
+                        3
+                      </dd>
+                    </div>
+                    <div className="flex flex-col border-gray-100 p-6 text-center">
+                      <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                        Students
+                      </dt>
+                      <dd className="order-1 text-5xl font-extrabold text-gray-700">
+                        1000+
+                      </dd>
+                    </div>
+                  </dl>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
     </div>
