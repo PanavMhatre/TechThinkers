@@ -99,6 +99,53 @@ function Resources() {
             linkRef="https://drive.google.com/file/d/1qPBzX-iWdCtFSlHZs334Vpw-PG0ppCjD/view?usp=drive_link"
           />
         </div>
+        <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl mt-20 mb-9">
+          Python
+        </h2>
+        <div className="grid grid-cols-3 gap-[-1]">
+          <CardTemplate
+            title="Intro to Python Programming"
+            description="Learn the basics of Python programming language!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1-K0yWIiXEuh2RdGBgjlYAkKhMYAd2BxX/view?usp=sharing"
+          />
+          <CardTemplate
+            title="Conditional Statements"
+            description="Learn about conditional statements in Python to create logic in your programs!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1Kx7Mx2TLnBkj_ZpO9OJB0jmSBXaSJDUt/view?usp=drive_link"
+          />
+          <CardTemplate
+            title="Loops"
+            description="Learn about loops in Python to create repetitive in your programs!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1TIP3zsMuOBtM7FbIjNLoKvxRnU1MCsT7/view?usp=drive_link"
+          />
+          <CardTemplate
+            title="Variables"
+            description="Learn about variables in Python to store data in your programs!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1UlmmGJhIsoiYCIjA5c6LtJvXDyC_F6SY/view?usp=drive_link"
+          />
+          <CardTemplate
+            title="Functions"
+            description="Learn about functions in Python to create reusable code in your programs!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1apdmAzUocm77C2INvb_vpgbNR4GtGcmK/view?usp=drive_link"
+          />
+          <CardTemplate
+            title="Data Structures"
+            description="Learn about data structures in Python to store multiple data in your programs!"
+            buttonText="Learn More"
+            buttonIcon={PythonIcon}
+            linkRef="https://drive.google.com/file/d/1RdQ6YfU3InfJ1zwkL8FpGM1OdugPiV81/view?usp=drive_link"
+          />
+        </div>
       </div>
     </div>
   );
