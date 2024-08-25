@@ -171,6 +171,26 @@ function Home() {
   </section>
 </div>
 
+      <div className="bg-gray-50 pb-4">
+  <div className="bg-white-50 ml-32 mr-32">
+    <footer className="bg-white-50 rounded-lg shadow p-4 dark:bg-gray-800">
+      <div className="bg-white w-full mx-auto max-w-screen-xl md:flex md:items-center md:justify-between">
+        <span className="text-sm text-gray-500 bg-white-50 sm:text-center dark:text-gray-400">
+          © 2024{" "}
+          <a href="https://flowbite.com/" className="hover:underline">
+            TechThinkers
+          </a>
+          . All Rights Reserved.
+        </span>
+        <a className="text-sm text-gray-500 sm:text-center dark:text-gray-400 mg-end">
+          Created by Panav Mhatre
+        </a>
+      </div>
+    </footer>
+  </div>
+</div>
+
+
 
     </div>
   );
